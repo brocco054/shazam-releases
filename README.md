@@ -1,76 +1,69 @@
 <div align="center">
 
-<img src="src/brand/logo-s.png" width="120" alt="Shazam logo" />
+<img src="src/brand/logo-s.png" width="110" alt="" />
+<br><br>
+<img src="src/brand/wordmark.png" height="52" alt="Shazam" />
 
-<img src="src/brand/wordmark.png" height="56" alt="Shazam" />
+<p>Runas, feitiços e build de elo Mestre+ no cliente do LoL antes da partida começar.</p>
 
-### Seu treinador de League of Legends em tempo real
+<a href="https://github.com/brocco054/shazam-releases/releases/latest"><img src="https://img.shields.io/github/v/release/brocco054/shazam-releases?label=vers%C3%A3o&style=flat-square&color=c89b3c&labelColor=0a1428" alt="Versão"></a>
+<a href="https://github.com/brocco054/shazam-releases/releases"><img src="https://img.shields.io/github/downloads/brocco054/shazam-releases/total?label=downloads&style=flat-square&color=0ac8b9&labelColor=0a1428" alt="Downloads"></a>
+<img src="https://img.shields.io/badge/Windows-10%20%2F%2011-1e2328?style=flat-square&labelColor=0a1428" alt="Windows 10 e 11">
 
-Runas, feitiços, build e matchup de elo **Mestre+** importados direto no cliente — antes do jogo começar.
-
-[![Download](https://img.shields.io/github/v/release/brocco054/shazam-releases?label=Baixar&style=for-the-badge&color=c89b3c&labelColor=0a1428)](https://github.com/brocco054/shazam-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/brocco054/shazam-releases/total?style=for-the-badge&color=0ac8b9&labelColor=0a1428)](https://github.com/brocco054/shazam-releases/releases)
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-1e2328?style=for-the-badge&logo=windows&logoColor=white)
-![Grátis](https://img.shields.io/badge/pre%C3%A7o-gr%C3%A1tis-1e2328?style=for-the-badge)
-
-**[⬇️ Baixar instalador](https://github.com/brocco054/shazam-releases/releases/latest)** · [Recursos](#-recursos) · [Como usar](#-como-usar) · [Atalhos](#%EF%B8%8F-atalhos) · [FAQ](#-faq)
+<h3><a href="https://github.com/brocco054/shazam-releases/releases/latest">Baixar para Windows</a></h3>
 
 </div>
 
----
+<br>
 
-## ✨ Recursos
+## O que ele faz
 
-| | |
-|---|---|
-| 🎯 **Draft inteligente** | Detecta seu campeão e descobre a rota de cada inimigo por eliminação, com taxa de pick por rota. |
-| 📜 **Runas Mestre+** | 3 opções: geral, mais usada e maior winrate **contra o seu oponente**. |
-| ⚡ **Importação automática** | Runas e feitiços vão direto para o cliente do LoL — sem copiar nada. |
-| 🛡️ **Build na hora** | Build local instantânea, refinada com dados do LoLalytics logo em seguida. |
-| 🧠 **Dicas de matchup** | Ordem das skills, dicas oficiais da Riot e como jogar contra cada campeão. |
-| 🎬 **Skills em vídeo** | Botões de habilidade com vídeo em loop, descrição e tempo de recarga. |
-| 🖥️ **Overlay in-game** | HUD translúcido por cima do jogo; os cliques atravessam. |
-| 🔊 **Narrador** | Avisos falados, com volume ajustável. |
-| 🔄 **Atualização automática** | Novas versões baixam e instalam com um clique. |
+<table>
+<tr>
+<td width="50%" valign="top"><img src="assets/icons/draft.svg" width="24" align="left" alt="">&nbsp;<b>Leitura do draft</b><br>Reconhece seu campeão e deduz a rota de cada inimigo pela taxa de pick.</td>
+<td width="50%" valign="top"><img src="assets/icons/runas.svg" width="24" align="left" alt="">&nbsp;<b>Runas Mestre+</b><br>Três páginas: a geral, a mais usada e a de maior winrate contra o seu oponente.</td>
+</tr>
+<tr>
+<td valign="top"><img src="assets/icons/importar.svg" width="24" align="left" alt="">&nbsp;<b>Importação no cliente</b><br>Runas e feitiços entram sozinhos no LoL. Você só confirma o pick.</td>
+<td valign="top"><img src="assets/icons/build.svg" width="24" align="left" alt="">&nbsp;<b>Build</b><br>Aparece na hora e é atualizada com os dados do LoLalytics.</td>
+</tr>
+<tr>
+<td valign="top"><img src="assets/icons/matchup.svg" width="24" align="left" alt="">&nbsp;<b>Matchup</b><br>Ordem das skills e dicas da Riot para jogar contra cada campeão.</td>
+<td valign="top"><img src="assets/icons/video.svg" width="24" align="left" alt="">&nbsp;<b>Skills em vídeo</b><br>Cada habilidade com vídeo curto, descrição e recarga.</td>
+</tr>
+<tr>
+<td valign="top"><img src="assets/icons/overlay.svg" width="24" align="left" alt="">&nbsp;<b>Overlay na partida</b><br>HUD discreto por cima do jogo. Os cliques passam direto.</td>
+<td valign="top"><img src="assets/icons/narrador.svg" width="24" align="left" alt="">&nbsp;<b>Narrador</b><br>Avisos em voz, com volume nas configurações.</td>
+</tr>
+<tr>
+<td valign="top" colspan="2"><img src="assets/icons/update.svg" width="24" align="left" alt="">&nbsp;<b>Atualiza sozinho</b><br>Quando sai versão nova, o app avisa e instala com um clique.</td>
+</tr>
+</table>
 
-## 🚀 Como usar
+## Instalação
 
-1. **Baixe** o `Shazam-Setup-x.y.z.exe` em [Releases](https://github.com/brocco054/shazam-releases/releases/latest) (ou a versão portátil).
-2. **Instale** e abra o Shazam.
-3. **Abra o cliente do LoL** e entre numa fila. Pronto — no draft o Shazam faz o resto.
+1. Baixe o `Shazam-Setup` na [página de versões](https://github.com/brocco054/shazam-releases/releases/latest). Se preferir não instalar, use o `Shazam-Portatil`.
+2. Abra o instalador e siga os passos.
+3. Deixe o Shazam aberto e entre numa fila no LoL. No draft ele já começa a trabalhar.
 
 > [!NOTE]
-> O Windows SmartScreen pode avisar na primeira execução. Clique em **Mais informações → Executar assim mesmo**.
+> Na primeira vez o Windows pode mostrar o aviso do SmartScreen. Clique em **Mais informações** e depois em **Executar assim mesmo**.
 
-## ⌨️ Atalhos
+## <img src="assets/icons/teclado.svg" width="22" alt=""> Atalhos
 
-| Atalho | Ação |
+| Teclas | Ação |
 |---|---|
-| `Ctrl` + `Shift` + `O` | Mover o overlay |
-| `Ctrl` + `Shift` + `H` | Mostrar / esconder o overlay |
+| <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>O</kbd> | Mover o overlay |
+| <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>H</kbd> | Mostrar ou esconder o overlay |
 
-## ❓ FAQ
+## Perguntas
 
-<details>
-<summary><b>Dá ban?</b></summary>
+**Pode dar ban?**
+O Shazam usa só a API do próprio cliente (LCU) para mexer em runas e feitiços, como Porofessor e Blitz. Ele não lê nem altera a memória do jogo.
 
-O Shazam usa apenas a API oficial do cliente (LCU) para importar runas e feitiços — o mesmo método de apps populares como Porofessor e Blitz. Ele **não lê nem altera a memória do jogo**.
-</details>
+**Funciona sem internet?**
+Não. Os dados vêm online. Sem conexão o app fica bloqueado e tenta de novo a cada 20 segundos.
 
-<details>
-<summary><b>Precisa de internet?</b></summary>
+<br>
 
-Sim. Os dados de Mestre+ vêm online; sem conexão o app mostra uma tela de bloqueio e tenta de novo a cada 20 s.
-</details>
-
-<details>
-<summary><b>É grátis?</b></summary>
-
-Sim, 100% grátis.
-</details>
-
----
-
-<div align="center">
 <sub>Shazam não é endossado pela Riot Games e não reflete as opiniões da Riot Games ou de qualquer pessoa envolvida na produção ou gestão de League of Legends. League of Legends e Riot Games são marcas registradas da Riot Games, Inc.</sub>
-</div>
